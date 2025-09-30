@@ -1,0 +1,7 @@
+Python Files (sorted by size)
+=============================
+
+..\Text Analyzer\textanalyzer.py: 970 bytes
+..\Recursive File System Explorer\recursivefilesystem.py: 803 bytes
+..\Mini CSV Data Aggregator\csv aggregator.py: 731 bytes
+..\Log File Analyzer\Log File Analyzer.py: 694 bytes

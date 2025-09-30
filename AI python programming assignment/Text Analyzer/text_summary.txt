@@ -1,0 +1,6 @@
+Text Analysis Report
+====================
+
+Total Words: 86
+Most Frequent Word: and (4 times)
+Average Word Length: 5.49

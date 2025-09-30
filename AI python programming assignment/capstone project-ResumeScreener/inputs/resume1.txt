@@ -1,0 +1,2 @@
+Experienced Python developer skilled in machine learning, NLP, 
+and building AI models. Proficient in pandas and scikit-learn.

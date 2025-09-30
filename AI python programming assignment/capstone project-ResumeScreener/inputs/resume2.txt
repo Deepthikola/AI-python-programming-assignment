@@ -1,0 +1,2 @@
+Software engineer with expertise in Java, C++, and system design.
+Worked on distributed systems but limited experience in ML.

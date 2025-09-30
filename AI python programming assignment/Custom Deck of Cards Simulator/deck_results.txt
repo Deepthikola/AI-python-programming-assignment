@@ -1,0 +1,16 @@
+Deck of Cards Simulation
+========================
+
+Drawn 7 cards:
+  J of Clubs
+  9 of Clubs
+  K of Clubs
+  8 of Spades
+  Q of Diamonds
+  J of Diamonds
+  5 of Spades
+
+Suit Distribution:
+  Clubs: 3
+  Spades: 2
+  Diamonds: 2

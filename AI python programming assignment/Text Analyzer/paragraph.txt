@@ -1,0 +1,11 @@
+Artificial intelligence is transforming the world.  
+It powers recommendation systems, fraud detection, and autonomous vehicles.  
+However, AI also raises concerns about bias, fairness, and transparency.  
+
+Machine learning is a subset of AI.  
+It enables systems to learn patterns from data rather than being explicitly programmed.  
+Deep learning, a branch of machine learning, uses neural networks with many layers.  
+
+AI is not only about technology.  
+It also involves ethics, regulation, and human values.  
+The future of AI depends on how responsibly we design and deploy these systems.

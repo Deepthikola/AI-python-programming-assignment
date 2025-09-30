@@ -1,0 +1,6 @@
+City Summary
+============
+
+London: Average Age = 27.5, Residents = 2
+Paris: Average Age = 37.5, Residents = 2
+Berlin: Average Age = 25.0, Residents = 2

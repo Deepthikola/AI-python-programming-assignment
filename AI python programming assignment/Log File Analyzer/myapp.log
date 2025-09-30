@@ -1,0 +1,15 @@
+2025-09-19 10:15:23 INFO System started successfully
+2025-09-19 10:16:45 ERROR Database connection failed - retrying
+2025-09-19 10:17:12 WARNING High memory usage detected
+2025-09-19 10:18:30 ERROR Unable to load configuration file
+2025-09-19 10:19:05 INFO Configuration reloaded
+2025-09-20 09:05:11 INFO User login successful
+2025-09-20 09:07:22 ERROR File not found: /var/log/app/data.xml
+2025-09-20 09:08:45 ERROR Permission denied for user 'appuser'
+2025-09-20 09:10:33 INFO Cache cleared
+2025-09-21 14:20:33 INFO Backup process started
+2025-09-21 14:22:17 ERROR Network timeout during backup
+2025-09-21 14:25:40 INFO Backup completed with warnings
+2025-09-22 08:30:15 ERROR Disk space critical
+2025-09-22 08:32:00 ERROR Cannot write to log file
+2025-09-22 08:35:22 INFO Maintenance mode activated

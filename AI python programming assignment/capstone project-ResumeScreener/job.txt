@@ -1,0 +1,3 @@
+We are looking for a Data Scientist with experience in Python, 
+machine learning, NLP, and data visualisation. 
+Knowledge of scikit-learn, pandas, and SQL is preferred.

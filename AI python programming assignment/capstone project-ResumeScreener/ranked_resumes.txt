@@ -1,0 +1,4 @@
+Rank	Filename	Score
+1	52195428_Kola Sai Deepthi Priya_DATA SCIENCE.pdf	0.5859
+2	resume1.txt	0.4479
+3	resume2.txt	0.1777
